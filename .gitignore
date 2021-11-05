@@ -1,5 +1,5 @@
 .DS_Store
 codecademy_venv/
-hurricanes/__pycache__
-
-
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
